@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\tests\\UsuarioControllerTest::testIndex":3,"App\\tests\\UsuarioControllerTest::testSalvar":3},"times":{"App\\tests\\UsuarioControllerTest::testIndex":0.039,"App\\tests\\UsuarioControllerTest::testSalvar":0.141}}
